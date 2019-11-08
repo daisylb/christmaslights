@@ -1,0 +1,2 @@
+cp main.py /main.py
+repl ~ import machine ~ machine.reset() ~
